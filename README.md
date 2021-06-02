@@ -7,4 +7,4 @@ Instance Normalization proposed by Dmitry Ulyanov et al. in their work <a href="
 All training was carried out on a Google Cloud AI Platform notebook equipped with a Tesla V100 GPU and the COCO dataset.
 
 # Acknowledgements
-This Demo was insparied from the awsome example of <a href="https://github.com/sayakpaul">Sayak Paul</a>.
+This demo was inspired by <a href="https://github.com/sayakpaul">Sayak Paul's</a> awesome examples and his wonderful repository <a href="https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite">Adventures-in-TensorFlow-Lite</a>, which you should definitely check out.
